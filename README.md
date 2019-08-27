@@ -14,4 +14,4 @@
  ##  详细内容如下
  |案例                              | 链接                                     |
  | ------------------------------------------------------------- | -------------------------------------------------------------|
- |springboot-example-helloworld                                  | [第一个初始化案例](springboot-example-helloworld/README.md)                   |
+ |springboot-example-helloworld                                  | [第一个初始化案例](springboot-example-helloworld)                   |
