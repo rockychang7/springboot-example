@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootExampleDevtoolsApplication {
 
     public static void main(String[] args) {
+        //禁止devtools自动重启
+        // System.setProperty("spring.devtools.restart.enabled", "false");
         SpringApplication.run(SpringBootExampleDevtoolsApplication.class, args);
     }
 
