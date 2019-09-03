@@ -15,3 +15,4 @@
  |案例                              | 链接                                     |
  | ------------------------------------------------------------- | -------------------------------------------------------------|
  |springboot-example-helloworld                                  | [第一个初始化案例](springboot-example-helloworld)                   |
+ |springboot-example-devtools                                    | [springboot使用spring-boot-devtools集成动态加载、自动重启等功能](springboot-example-devtools)                   |
