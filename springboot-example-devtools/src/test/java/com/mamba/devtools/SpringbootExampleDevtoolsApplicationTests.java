@@ -1,4 +1,4 @@
-package com.mamba.springbootexamplehelloworld;
+package com.mamba.devtools;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringbootExampleHelloworldApplicationTests {
+public class SpringbootExampleDevtoolsApplicationTests {
 
 	@Test
 	public void contextLoads() {

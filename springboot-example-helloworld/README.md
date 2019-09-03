@@ -10,27 +10,3 @@
   		</dependency>
   
 ```
-
-## 代码
-**(1)Controller**:
-```
-  @RestController
-  public class HelloWorldController {
-  
-      @RequestMapping("/hello")
-      public String hello() {
-          return "Hello World";
-      }
-  }
-```
-
-**(2)启动类**
-```
- @SpringBootApplication
- public class SpringbootExampleHelloworldApplication {
- 
- 	public static void main(String[] args) {
- 		SpringApplication.run(SpringbootExampleHelloworldApplication.class, args);
- 	}
- }
-```
