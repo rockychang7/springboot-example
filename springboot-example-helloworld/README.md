@@ -8,16 +8,10 @@
   			<groupId>org.springframework.boot</groupId>
   			<artifactId>spring-boot-starter-web</artifactId>
   		</dependency>
-  		
-        <dependency>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-starter</artifactId>
-        </dependency>
-  	</dependencies>
-
+  
 ```
 
-## 设计代码
+## 代码
 **(1)Controller**:
 ```
   @RestController
