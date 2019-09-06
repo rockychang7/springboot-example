@@ -17,3 +17,4 @@
  |springboot-example-helloworld                                  | [第一个初始化案例](springboot-example-helloworld)                   |
  |springboot-example-devtools                                    | [springboot使用spring-boot-devtools集成动态加载、自动重启等功能](springboot-example-devtools)                   |
  |springboot-example-failure-analyzer                                | [springboot自定义FailureAnalyzer解析器](springboot-example-failure-analyzer)                   |
+ |springboot-example-argument                                | [springboot获取命令行参数并且在启动完成前自定义操作](springboot-example-argument)                   |
