@@ -1,0 +1,30 @@
+﻿participant:
+   dev:
+       name: joebig7
+   test:
+       name: tom
+
+
+# 配置数组
+department:
+    name:
+      - develop
+      - market
+
+location:
+   - shanghai
+
+
+# 配置不同环境的属性
+server:
+       port:  8080
+---
+spring:
+       profiles: dev
+server:
+       port: 8081
+---
+spring:
+       profiles: prod
+server:
+       port: 8082

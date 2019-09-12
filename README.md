@@ -19,3 +19,4 @@
  |springboot-example-failure-analyzer                                | [springboot自定义FailureAnalyzer解析器](springboot-example-failure-analyzer)                   |
  |springboot-example-argument                                 | [springboot获取命令行参数并且在启动完成前自定义操作](springboot-example-argument)                   |
  |springboot-example-externalized-configuration               | [springboot外部化配置初始化顺序](springboot-example-externalized-configuration)                   |
+ |springboot-example-yaml                                   | [springboot关于yaml配置文件使用方式](springboot-example-yaml)                   |

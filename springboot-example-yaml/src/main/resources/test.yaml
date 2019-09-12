@@ -1,0 +1,16 @@
+participant:
+   dev:
+       name: joebig7-test
+   test:
+       name: tom-test
+
+server:
+       port:  8080
+
+# 配置数组
+department:
+    name: devop,market
+
+
+location:
+   - shanghai-test
