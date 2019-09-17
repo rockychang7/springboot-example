@@ -3,8 +3,8 @@
 ### 依赖
 由于SpringBoot默认整合了Logback依赖，因此不需要额外地添加依赖
 ```
-   </dependencies>	
-       <dependency>
+        </dependencies>	
+                <dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
 		</dependency>
