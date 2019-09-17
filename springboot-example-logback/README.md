@@ -3,7 +3,8 @@
 ### 依赖
 由于SpringBoot默认整合了Logback依赖，因此不需要额外地添加依赖
 ```
-  	<dependency>
+   </dependencies>	
+       <dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
 		</dependency>
@@ -11,7 +12,7 @@
 ```
 
 ### 默认配置
-SpringBoot提供了logback的默认配置，在spring-boot.jar的org/springframework/boot/logging/logback/base.xml进行了配置，配置如下：可以看见default.xml提供了默认转换规则、全局属性以及logger的配置。并且在console-appender.xml中定义了向console输出的配置；在file-appender.xml中定义了文件输出的配置。
+SpringBoot提供了logback的默认配置，位于spring-boot.jar的org/springframework/boot/logging/logback/base.xml，包含配置如下：可以看见default.xml提供了默认转换规则、全局属性以及logger的配置；console-appender.xml中定义了console输出的具体配置；在file-appender.xml中定义了文件输出的具体配置。
 
 base.xml：
 ```
@@ -86,7 +87,7 @@ file-appender.xml
 ```
 
 ###  自定义logback.xml
-除了使用SpringBoot默认的配置，还可以自定义配置文件放在项目类路径下就能生效，自定义配置文件如下：下面的配置文件还使用了SpringBoot针对logback提供的springProfile，用来对不同运行环境使用不同的日志输出。
+除了使用SpringBoot默认的配置，还可以自定义logback配置文件，并且放在项目类路径下就能生效。具体的配置文件如下：下面的配置文件还使用了springProfile对不同运行环境使用不同的日志输出，这是SpringBoot对logback特别提供的。
 
 logback-spring.xml
 ```
