@@ -22,4 +22,4 @@
  |springboot-example-yaml                                        | [springboot关于yaml配置文件使用方式](springboot-example-yaml)                                       |
  |springboot-example-logback                                     | [springboot整合logback日志框架](springboot-example-logback)                                        | 
  |springboot-example-log4j2                                      | [springboot整合log4j2日志框架](springboot-example-log4j2)                                         |
- |springboot-example-internationalization                                      | [springboot支持国家化（I18N）](springboot-example-internationalization)                                         |
+ |springboot-example-internationalization                        | [springboot支持国际化（I18N）](springboot-example-internationalization)                                         |
