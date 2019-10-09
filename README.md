@@ -26,6 +26,6 @@
  |springboot-example-thymeleaf                                   | [springboot整合thymeleaf模板引擎](springboot-example-thymeleaf)                                   |
  |springboot-example-freemarker                                  | [springboot整合freemarker模板引擎](springboot-example-freemarker)                                 |
  |springboot-example-webflux                                     | [springboot整合WebFlux](springboot-example-webflux)                                             |
-  
+ |springboot-example-jdbctemplate                                | [springboot整合JdbcTemplate](springboot-example-jdbctemplate)                                             |
 ## 扩展（SpringBoot源码解析）
 可以参见 [Spring启动过程源码解析](https://www.zjfzjf.com/categories/SpringBoot)
