@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mamba</groupId>
-	<artifactId>spring-example-thymeleaf</artifactId>
+	<artifactId>springboot-example-thymeleaf</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-example-thymeleaf</name>
+	<name>springboot-example-thymeleaf</name>
 	<description>thymeleaf demo in Spring Boot</description>
 
 	<properties>
