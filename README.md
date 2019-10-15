@@ -29,6 +29,7 @@
  |springboot-example-jdbctemplate                                | [springboot整合JdbcTemplate](springboot-example-jdbctemplate)                                    |
  |springboot-example-data-jpa                                    | [springboot整合Spring Jpa](springboot-example-data-jpa)                                         |
  |springboot-example-data-redis                                  | [springboot整合Redis](springboot-example-data-redis)                                            |
+ |springboot-example-data-mongo                                  | [springboot整合mongo](springboot-example-data-mongo)                                            |
 
 ## 扩展（SpringBoot源码解析）
 可以参见 [Spring启动过程源码解析](https://www.zjfzjf.com/categories/SpringBoot)
