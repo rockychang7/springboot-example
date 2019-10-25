@@ -30,7 +30,9 @@
  |springboot-example-data-jpa                                    | [springboot整合Spring Jpa](springboot-example-data-jpa)                                         |
  |springboot-example-data-redis                                  | [springboot整合Redis](springboot-example-data-redis)                                            |
  |springboot-example-data-mongo                                  | [springboot整合mongo](springboot-example-data-mongo)                                            |
- |swagger-spring-boot-starter                                    | [创建swagger-spring-boot-starter](https://github.com/Joebig7/swagger-autoconfigure-demo)        |                           
+                           
 
 ## 扩展（SpringBoot源码解析）
 可以参见 [Spring启动过程源码解析](https://www.zjfzjf.com/categories/SpringBoot)
+## 自定义Starter
+具体项目将 [创建swagger-spring-boot-starter](https://github.com/Joebig7/swagger-autoconfigure-demo)        | 
