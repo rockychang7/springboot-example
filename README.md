@@ -4,7 +4,7 @@
  </p>
  
  ## 简介
- `springboot-example`项目是用来学习springboot的基本demo案例和第三方的集成demo案例.
+ `springboot-example`项目是用来学习springboot的基本demo案例以及相关第三方软件的集成demo.
  
  ## 基础开发环境
  - jdk 1.8
