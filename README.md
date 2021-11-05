@@ -31,6 +31,7 @@
  |springboot-example-data-redis                                  | [springboot整合Redis](springboot-example-data-redis)                                            |
  |springboot-example-data-mongo                                  | [springboot整合mongo](springboot-example-data-mongo)                                            |
  |springboot-example-rabbitmq                                   |[SpringBoot整合RabbitMq](springboot-example-rabbitmq)                                            |
+ |springboot-example-swagger2                                   |[SpringBoot整合swagger2](springboot-example-swagger2)                                            |
 
 ## 扩展（SpringBoot源码解析）
 可以参见 [Spring启动过程源码解析](https://www.zjfzjf.com/categories/SpringBoot)
