@@ -8,7 +8,7 @@
  
  ## 基础开发环境
  - jdk 1.8
- - SpringBoot 2.1.7
+ - SpringBoot 2.x
  
  
  ##  详细内容如下
