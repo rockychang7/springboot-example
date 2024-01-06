@@ -1,4 +1,4 @@
- <h1 align="center"><a href="https://github.com/JoeBig7" target="_blank">SpringBoot Demo整合（长期更新）</a></h1>
+ <h1 align="center"><a href="https://github.com/rockychang7" target="_blank">SpringBoot Demo整合（长期更新）</a></h1>
  <p align="center">
  <img src="https://img.shields.io/badge/build-passing-brightgreen"/><img src="https://img.shields.io/badge/jdk-1.8-brightgreen"/><img src="https://img.shields.io/badge/springboot-2.1.7-green"/>
  </p>
@@ -36,7 +36,6 @@
  |springboot-example-email                                 |[SpringBoot整合email](springboot-example-email) |
  |springboot-example-testing                                 |[SpringBoot集成测试](springboot-example-testing) |
 
-## 扩展（SpringBoot源码解析）
-可以参见 [Spring启动过程源码解析](https://www.zjfzjf.com/categories/SpringBoot)
+
 ## 自定义Starter
 具体项目见 [创建swagger-spring-boot-starter](https://github.com/Joebig7/swagger-autoconfigure-demo) 
