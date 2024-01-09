@@ -11,22 +11,23 @@
  - SpringBoot 2.7.18
 
  ## 内容
- | 案例                                                  | 链接                                                                             |
- |-----------------------------------------------------|--------------------------------------------------------------------------------|
- | springboot-example-helloworld                       | [第一个初始化案例](springboot-example-helloworld)                                      | 
- | springboot-example-data-jpa                         | [springboot整合Spring Jpa](springboot-example-data-jpa)                          |
- | springboot-example-data-redis                       | [springboot整合Redis](springboot-example-data-redis)                             |
- | springboot-example-devtools                         | [springboot使用spring-boot-devtools集成动态加载、自动重启等功能](springboot-example-devtools)  |
- | springboot-example-email                            | [SpringBoot整合email](springboot-example-email)                                  | 
- | springboot-example-freemarker                       | [springboot整合freemarker模板引擎](springboot-example-freemarker)                    |
- | springboot-example-internationalization             | [springboot支持国际化（I18N）](springboot-example-internationalization)               |
- | springboot-example-jdbctemplate                     | [springboot整合JdbcTemplate](springboot-example-jdbctemplate)                    |
- | springboot-example-log4j2                           | [springboot整合log4j2日志框架](springboot-example-log4j2)                            |
- | springboot-example-logback                          | [springboot整合logback日志框架](springboot-example-logback)                          | 
- | springboot-example-rabbitmq                         | [SpringBoot整合RabbitMq](springboot-example-rabbitmq)                            |
- | springboot-example-security-jwt                     | [SpringBoot整合security和jwt](springboot-example-security-jwt)                    |
- | springboot-example-swagger2                         | [SpringBoot整合swagger2](springboot-example-swagger2)                            |
- | springboot-example-testing                          | [SpringBoot集成测试](springboot-example-testing)                                   |
- | springboot-example-thymeleaf                        | [springboot整合thymeleaf模板引擎](springboot-example-thymeleaf)                      |
- | springboot-example-webflux                          | [springboot整合WebFlux](springboot-example-webflux)                              |
- | springboot-example-yaml                             | [springboot关于yaml配置文件使用方式](springboot-example-yaml)                            |
+ | 案例                                      | 链接                                                               |
+ |-----------------------------------------|------------------------------------------------------------------|
+ | springboot-example-helloworld           | [hello world](springboot-example-helloworld)                     | 
+ | springboot-example-aop                  | [springboot整合aop基础使用](springboot-example-aop)                  | 
+ | springboot-example-data-jpa             | [springboot整合Spring Jpa](springboot-example-data-jpa)            |
+ | springboot-example-data-redis           | [springboot整合Redis](springboot-example-data-redis)               |
+ | springboot-example-devtools             | [springboot整合spring-boot-devtools](springboot-example-devtools)  |
+ | springboot-example-email                | [SpringBoot整合email](springboot-example-email)                    | 
+ | springboot-example-freemarker           | [springboot整合freemarker模板引擎](springboot-example-freemarker)      |
+ | springboot-example-internationalization | [springboot支持国际化（I18N）](springboot-example-internationalization) |
+ | springboot-example-jdbctemplate         | [springboot整合JdbcTemplate](springboot-example-jdbctemplate)      |
+ | springboot-example-log4j2               | [springboot整合log4j2日志框架](springboot-example-log4j2)              |
+ | springboot-example-logback              | [springboot整合logback日志框架](springboot-example-logback)            | 
+ | springboot-example-rabbitmq             | [SpringBoot整合RabbitMq](springboot-example-rabbitmq)              |
+ | springboot-example-security-jwt         | [SpringBoot整合security和jwt](springboot-example-security-jwt)      |
+ | springboot-example-swagger2             | [SpringBoot整合swagger2](springboot-example-swagger2)              |
+ | springboot-example-testing              | [SpringBoot整合单元测试](springboot-example-testing)                   |
+ | springboot-example-thymeleaf            | [springboot整合thymeleaf模板引擎](springboot-example-thymeleaf)        |
+ | springboot-example-webflux              | [springboot整合WebFlux](springboot-example-webflux)                |
+ | springboot-example-yaml                 | [springboot整合yaml配置文件使用方式](springboot-example-yaml)              |
