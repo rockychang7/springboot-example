@@ -12,7 +12,7 @@ import reactor.core.publisher.Mono;
 @RestController
 public class HelloController {
 
-    @RequestMapping("/hello")
+        @RequestMapping("/hello")
     public Mono<String> sayHello() {
         return Mono.just("Hello world");
     }

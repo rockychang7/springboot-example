@@ -20,10 +20,9 @@ public class DevToolsController {
     @RequestMapping("/devtools")
     public Map<String, String> hello() {
         Map<String, String> map = new HashMap<>();
-        map.put("name", "zhangsan");
-        //add
-        map.put("age","22");
-        map.put("address","23");
+        map.put("name", "rocky");
+        map.put("age","28");
+        map.put("address","earth");
         return map;
     }
 

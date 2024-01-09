@@ -62,4 +62,4 @@
         }
   ```
   
-  > 值得一提的是，SpringBoot只是对一些参数进行自动配置，默认还是使用的Spring的MessageResource接口做具体的实现，这边注册呢它的一个实现类SessionLocaleResolver来对请求内容进行处理。
+  > 值得一提的是，SpringBoot只是对一些参数进行自动配置，默认还是使用的Spring的MessageResource接口做具体的实现，这边注册它的一个实现类SessionLocaleResolver来对请求内容进行处理。
