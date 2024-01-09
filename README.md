@@ -14,7 +14,7 @@
  | 案例                                      | 链接                                                               |
  |-----------------------------------------|------------------------------------------------------------------|
  | springboot-example-helloworld           | [hello world](springboot-example-helloworld)                     | 
- | springboot-example-aop                  | [springboot整合aop基础使用](springboot-example-aop)                  | 
+ | springboot-example-aop                  | [springboot整合aop基础使用](springboot-example-aop)                    | 
  | springboot-example-data-jpa             | [springboot整合Spring Jpa](springboot-example-data-jpa)            |
  | springboot-example-data-redis           | [springboot整合Redis](springboot-example-data-redis)               |
  | springboot-example-devtools             | [springboot整合spring-boot-devtools](springboot-example-devtools)  |
@@ -24,6 +24,7 @@
  | springboot-example-jdbctemplate         | [springboot整合JdbcTemplate](springboot-example-jdbctemplate)      |
  | springboot-example-log4j2               | [springboot整合log4j2日志框架](springboot-example-log4j2)              |
  | springboot-example-logback              | [springboot整合logback日志框架](springboot-example-logback)            | 
+ | springboot-example-mybatisplus          | [springboot整合mybatis plus](springboot-example-mybatisplus)       |
  | springboot-example-rabbitmq             | [SpringBoot整合RabbitMq](springboot-example-rabbitmq)              |
  | springboot-example-security-jwt         | [SpringBoot整合security和jwt](springboot-example-security-jwt)      |
  | springboot-example-swagger2             | [SpringBoot整合swagger2](springboot-example-swagger2)              |
